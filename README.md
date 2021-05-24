@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/AlejandroLR00/3-column-preview-card-component)
+- Live Site URL: [Add live site URL here](https://nostalgic-swartz-10b172.netlify.app/)
 
 ## My process
 
