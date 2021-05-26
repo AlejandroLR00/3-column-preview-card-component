@@ -72,6 +72,14 @@ body{
     .section__sedan, .section__suvs, .section__luxury{
         margin: 170px 0;
     }
+
+    .section__sedan{
+        margin-left: 50px;
+    }
+
+    .section__luxury{
+        margin-right: 50px;
+    }
 }
 
 .section__title{
